@@ -27,7 +27,7 @@ QuickRide-Clone/
 
 ## 🚀 Live Demo  
 
-👉 [View Live Project](https://your-username.github.io/QuickRide-Clone/)  
+👉 [View Live Project]( https://bibhu-1802.github.io/QuickRide-Clone/)  
 
 
 ## 🛠️ Tech Stack  
@@ -47,5 +47,6 @@ QuickRide-Clone/
 👨‍💻 Author Bibhu Data Sethy – Aspiring Python Developer & Web Enthusiast
 
 www.linkedin.com/in/bibhu-data
+
 
 https://github.com/Bibhu-1802
